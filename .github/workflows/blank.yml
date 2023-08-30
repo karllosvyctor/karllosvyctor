@@ -45,7 +45,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 # Nome da Actions:  
-name: Snake Game
+name: SnakeGame
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
